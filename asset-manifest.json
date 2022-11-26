@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adminpanel-tailwind/static/css/main.0be78d64.css",
+    "main.js": "/adminpanel-tailwind/static/js/main.2de0c68f.js",
+    "index.html": "/adminpanel-tailwind/index.html",
+    "main.0be78d64.css.map": "/adminpanel-tailwind/static/css/main.0be78d64.css.map",
+    "main.2de0c68f.js.map": "/adminpanel-tailwind/static/js/main.2de0c68f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be78d64.css",
+    "static/js/main.2de0c68f.js"
+  ]
+}
